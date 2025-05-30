@@ -29,12 +29,6 @@ The more complex and intricate the idea, the better. I love a good challenge!
   experienced enthusiast aiming to enhance your skills, I'm here to help you on your crypto journey. Contact for more information.
 
 
-
-## Contact Information
-
-- Email: bitbanana717@gmail.com
-- Telegram: [Let's Chat](https://t.me/bitfancy)
-
 ## Support My Work
 If these scripts have helped you, please consider supporting my work. Your support will help me continue to develop these tools and create more useful resources for the crypto community.
 
